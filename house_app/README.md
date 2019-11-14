@@ -1,6 +1,7 @@
 # house_app
 
 A new Flutter project.
+Organizing the Household tasks
 
 ## Getting Started
 
